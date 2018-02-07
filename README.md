@@ -2,9 +2,9 @@
 Hello World
 
 
-Class ID: *Pokemon*
+Class ID: Spheal
 
-SRS ID: *CST???SRS00*
+SRS ID: *CST000SRS00*
 
 Unresolved Issues:  None. 
 
